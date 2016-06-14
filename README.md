@@ -1,3 +1,5 @@
+# Github Training Notes
+
 [Day 1](class-notes-day1.md)
 
 
